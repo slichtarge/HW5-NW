@@ -1,5 +1,7 @@
+[![Python Tests](https://github.com/slichtarge/HW5-NW/actions/workflows/ci.yml/badge.svg)](https://github.com/slichtarge/HW5-NW/actions/workflows/ci.yml)
+
 # Project 5
-Needleman Wunsch Algorithm!
+Needleman Wunsch Algorithm
 
 
 # Assignment Overview
